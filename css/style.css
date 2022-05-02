@@ -1,0 +1,252 @@
+body {
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #373d39;
+  text-align: left;
+  margin: 100px;
+  margin-top: 50px;
+  padding: 350px;
+  padding-top: 10px;
+}
+button {
+  border-style: none;
+  text-align: center;
+  background-color: #2d9e97c7;
+  color: rgb(240, 245, 243);
+  border-radius: 06px;
+  width: 250px;
+  height: 70px;
+  margin: 05px;
+  padding: 05px;
+  margin-left: 15px;
+  font-size: 22px;
+}
+
+h1 {
+  color: #202122c7;
+  text-align: left;
+  font-size: 50px;
+}
+h2 {
+  color: #2d9e97c7;
+  text-align: left;
+  font-weight: 400;
+  font-style: link rel= "preconnect" href= "https://fonts.googleapis.com" <link
+    rel= "preconnect" href= "https://fonts.gstatic.com" crossorigin> <link href=
+    "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&display=swap"
+    rel= "stylesheet" >;
+}
+
+h3 {
+  text-align: left;
+  font-weight: 400;
+}
+h4 {
+  text-align: left;
+  font-weight: 400;
+  font-size: 24pxS;
+}
+h5 {
+  text-align: left;
+  font-weight: revert;
+  padding-left: 20px;
+  margin: 10px;
+  margin-left: 15px;
+}
+h6 {
+  text-align: left;
+  font-weight: initial;
+  padding-left: 20px;
+  margin: 10px;
+  margin-left: 15px;
+}
+
+.pad {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pad2 {
+  margin-left: 50px;
+  margin-right: 50px;
+  letter-spacing: 06px;
+}
+.why {
+  color: rgb(3, 3, 43);
+  text-align: center;
+  margin-top: 100px;
+  padding: 30px;
+}
+.separador1 {
+  display: inline-block;
+  background-color: aqua;
+  height: 1px;
+  width: 50px;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.separador2 {
+  display: inline-block;
+  background-color: aqua;
+  height: 1px;
+  width: 15px;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.separador1contato {
+  display: inline-block;
+  background-color: rgb(237, 252, 252);
+  height: 1px;
+  width: 50px;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.separador2contato {
+  display: inline-block;
+  height: 1px;
+  width: 15px;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.delimitador {
+  display: inline-block;
+  height: 8px;
+  width: 10px;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #1e51afc7;
+}
+.progresso1 {
+  display: inline-block;
+  height: 8px;
+  width: 75%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.progresso1-restante {
+  display: inline-block;
+  height: 8px;
+  width: 20%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #a7b1b0c7;
+}
+.progresso2 {
+  display: inline-block;
+  height: 8px;
+  width: 70%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.progresso2-restante {
+  display: inline-block;
+  height: 8px;
+  width: 25%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #a7b1b0c7;
+}
+.progresso3 {
+  display: inline-block;
+  height: 8px;
+  width: 85%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.progresso3-restante {
+  display: inline-block;
+  height: 8px;
+  width: 10%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #a7b1b0c7;
+}
+.progresso4 {
+  display: inline-block;
+  height: 8px;
+  width: 60%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #2d9e97c7;
+}
+.progresso4-restante {
+  display: inline-block;
+  height: 8px;
+  width: 35%;
+  margin-block: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  background-color: #a7b1b0c7;
+}
+#centralizarseparadores {
+  text-align: center;
+}
+.informationbox {
+  display: inline-block;
+  width: 40%;
+  height: 40%;
+  margin: 24px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.icon {
+  margin: 30px;
+  margin-bottom: 10px;
+  width: 90px;
+  height: 90px;
+}
+.iconmundi {
+  width: 90px;
+  height: 90px;
+}
+
+.allinformationbox {
+  text-align: center;
+  margin: 0;
+}
+.barra {
+  accent-color: #5bb3ae;
+  width: 100%;
+}
+.informationboxbottom {
+  display: inline-block;
+  width: 100%;
+  height: 890px;
+  margin: 20px;
+  background-color: #e5ebe752;
+}
+.boxcontato {
+  display: inline-block;
+  width: 100%;
+  height: 250px;
+  margin-top: 100px;
+  background-color: #2d9e97;
+  color: #fff;
+}
+#iconleft {
+  text-align: left;
+}
+.textocontato {
+  font-size: 35px;
+  margin-top: 20px;
+}
