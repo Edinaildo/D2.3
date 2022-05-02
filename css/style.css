@@ -126,78 +126,7 @@ h6 {
   border-radius: 8px;
   background-color: #1e51afc7;
 }
-.progresso1 {
-  display: inline-block;
-  height: 8px;
-  width: 75%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #2d9e97c7;
-}
-.progresso1-restante {
-  display: inline-block;
-  height: 8px;
-  width: 20%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #a7b1b0c7;
-}
-.progresso2 {
-  display: inline-block;
-  height: 8px;
-  width: 70%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #2d9e97c7;
-}
-.progresso2-restante {
-  display: inline-block;
-  height: 8px;
-  width: 25%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #a7b1b0c7;
-}
-.progresso3 {
-  display: inline-block;
-  height: 8px;
-  width: 85%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #2d9e97c7;
-}
-.progresso3-restante {
-  display: inline-block;
-  height: 8px;
-  width: 10%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #a7b1b0c7;
-}
-.progresso4 {
-  display: inline-block;
-  height: 8px;
-  width: 60%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #2d9e97c7;
-}
-.progresso4-restante {
-  display: inline-block;
-  height: 8px;
-  width: 35%;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #a7b1b0c7;
-}
+
 #centralizarseparadores {
   text-align: center;
 }
