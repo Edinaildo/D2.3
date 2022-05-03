@@ -160,6 +160,7 @@ h6 {
   display: inline-block;
   width: 100%;
   height: 750px;
+  margin-top: 20px;
   background-color: #e5ebe752;
 }
 .boxcontato {
@@ -187,9 +188,8 @@ h6 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.backgroudimage {
-  background-image: url(../images/mapamundo.png);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
+.mapamundi {
   opacity: 20%;
+  position: relative;
+  z-index: -1;
 }
