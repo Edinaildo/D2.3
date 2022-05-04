@@ -34,10 +34,6 @@ h2 {
   color: #2d9e97c7;
   text-align: left;
   font-weight: 400;
-  font-style: link rel= "preconnect" href= "https://fonts.googleapis.com" <link
-    rel= "preconnect" href= "https://fonts.gstatic.com" crossorigin> <link href=
-    "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&display=swap"
-    rel= "stylesheet" >;
 }
 
 h3 {
@@ -47,7 +43,7 @@ h3 {
 h4 {
   text-align: left;
   font-weight: 400;
-  font-size: 24pxS;
+  font-size: 24px;
 }
 h5 {
   text-align: left;
@@ -118,15 +114,6 @@ h6 {
 }
 .conjuntodeseparadores {
   margin-left: 40px;
-}
-.delimitador {
-  display: inline-block;
-  height: 8px;
-  width: 10px;
-  margin-block: 2px;
-  padding: 2px;
-  border-radius: 8px;
-  background-color: #1e51afc7;
 }
 
 #centralizarseparadores {
